@@ -1,0 +1,41 @@
+E:\UNIVER\KMZI\6.Kript\Crypto_9_13\Lab10\bin\Debug\Lab10.exe.config
+E:\UNIVER\KMZI\6.Kript\Crypto_9_13\Lab10\bin\Debug\Lab10.exe
+E:\UNIVER\KMZI\6.Kript\Crypto_9_13\Lab10\bin\Debug\Lab10.pdb
+E:\UNIVER\KMZI\6.Kript\Crypto_9_13\Lab10\bin\Debug\System.ValueTuple.dll
+E:\UNIVER\KMZI\6.Kript\Crypto_9_13\Lab10\obj\Debug\Lab10.csprojAssemblyReference.cache
+E:\UNIVER\KMZI\6.Kript\Crypto_9_13\Lab10\obj\Debug\Lab10.csproj.CoreCompileInputs.cache
+E:\UNIVER\KMZI\6.Kript\Crypto_9_13\Lab10\obj\Debug\Lab10.csproj.CopyComplete
+E:\UNIVER\KMZI\6.Kript\Crypto_9_13\Lab10\obj\Debug\Lab10.exe
+E:\UNIVER\KMZI\6.Kript\Crypto_9_13\Lab10\obj\Debug\Lab10.pdb
+E:\UNIVER\KMZI\lab10\Lab10\bin\Debug\Lab10.exe.config
+E:\UNIVER\KMZI\lab10\Lab10\bin\Debug\Lab10.exe
+E:\UNIVER\KMZI\lab10\Lab10\bin\Debug\Lab10.pdb
+E:\UNIVER\KMZI\lab10\Lab10\obj\Debug\Lab10.csprojAssemblyReference.cache
+E:\UNIVER\KMZI\lab10\Lab10\obj\Debug\Lab10.csproj.CoreCompileInputs.cache
+E:\UNIVER\KMZI\lab10\Lab10\obj\Debug\Lab10.csproj.CopyComplete
+E:\UNIVER\KMZI\lab10\Lab10\obj\Debug\Lab10.exe
+E:\UNIVER\KMZI\lab10\Lab10\obj\Debug\Lab10.pdb
+D:\Учёба\3 curs\2 сем\материалы\KMZI\lab10\Lab10\bin\Debug\Lab10.exe.config
+D:\Учёба\3 curs\2 сем\материалы\KMZI\lab10\Lab10\bin\Debug\Lab10.exe
+D:\Учёба\3 curs\2 сем\материалы\KMZI\lab10\Lab10\bin\Debug\Lab10.pdb
+D:\Учёба\3 curs\2 сем\материалы\KMZI\lab10\Lab10\obj\Debug\Lab10.csprojAssemblyReference.cache
+D:\Учёба\3 curs\2 сем\материалы\KMZI\lab10\Lab10\obj\Debug\Lab10.csproj.CoreCompileInputs.cache
+D:\Учёба\3 curs\2 сем\материалы\KMZI\lab10\Lab10\obj\Debug\Lab10.csproj.CopyComplete
+D:\Учёба\3 curs\2 сем\материалы\KMZI\lab10\Lab10\obj\Debug\Lab10.exe
+D:\Учёба\3 curs\2 сем\материалы\KMZI\lab10\Lab10\obj\Debug\Lab10.pdb
+D:\Учёба\3 curs\2 сем\Криптография\lab10\Lab10\bin\Debug\Lab10.exe.config
+D:\Учёба\3 curs\2 сем\Криптография\lab10\Lab10\bin\Debug\Lab10.exe
+D:\Учёба\3 curs\2 сем\Криптография\lab10\Lab10\bin\Debug\Lab10.pdb
+D:\Учёба\3 curs\2 сем\Криптография\lab10\Lab10\obj\Debug\Lab10.csprojAssemblyReference.cache
+D:\Учёба\3 curs\2 сем\Криптография\lab10\Lab10\obj\Debug\Lab10.csproj.CoreCompileInputs.cache
+D:\Учёба\3 curs\2 сем\Криптография\lab10\Lab10\obj\Debug\Lab10.csproj.CopyComplete
+D:\Учёба\3 curs\2 сем\Криптография\lab10\Lab10\obj\Debug\Lab10.exe
+D:\Учёба\3 curs\2 сем\Криптография\lab10\Lab10\obj\Debug\Lab10.pdb
+D:\Учёба\3 curs\2 сем\Криптография\lab10_ЭЦП\Lab10\bin\Debug\Lab10.exe.config
+D:\Учёба\3 curs\2 сем\Криптография\lab10_ЭЦП\Lab10\bin\Debug\Lab10.exe
+D:\Учёба\3 curs\2 сем\Криптография\lab10_ЭЦП\Lab10\bin\Debug\Lab10.pdb
+D:\Учёба\3 curs\2 сем\Криптография\lab10_ЭЦП\Lab10\obj\Debug\Lab10.csprojAssemblyReference.cache
+D:\Учёба\3 curs\2 сем\Криптография\lab10_ЭЦП\Lab10\obj\Debug\Lab10.csproj.CoreCompileInputs.cache
+D:\Учёба\3 curs\2 сем\Криптография\lab10_ЭЦП\Lab10\obj\Debug\Lab10.csproj.CopyComplete
+D:\Учёба\3 curs\2 сем\Криптография\lab10_ЭЦП\Lab10\obj\Debug\Lab10.exe
+D:\Учёба\3 curs\2 сем\Криптография\lab10_ЭЦП\Lab10\obj\Debug\Lab10.pdb

@@ -1,0 +1,27 @@
+﻿<Window x:Class="Lab04.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab04"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        
+        <TextBox Grid.Column="0" Grid.Row="0" x:Name="tb_Encrypt" Height="150" Width="350" TextWrapping="Wrap" VerticalScrollBarVisibility="Auto"/>
+        <Button Grid.Column="1" Grid.Row="0" Content="Зашифровать (Цезаря)" Width="150" Height="40" Click="CaesarEncrypt_Click"/>
+        <Button Grid.Column="2" Grid.Row="0" Content="Зашифровать (Трисемуса)" Width="160" Height="40" Click="TrisemusEncrypt_Click"/>
+        <TextBox Grid.Column="0" Grid.Row="1" x:Name="tb_Decrypt" Height="150" Width="350" TextWrapping="Wrap" VerticalScrollBarVisibility="Auto"/>
+        <Button Grid.Column="1" Grid.Row="1" Content="Расшифровать (Цезаря)" Width="150" Height="40" Click="CaesarDecrypt_Click"/>
+        <Button Grid.Column="2" Grid.Row="1" Content="Расшифровать (Трисемуса)" Width="160" Height="40" Click="TrisemusDecrypt_Click"/>
+    </Grid>
+</Window>

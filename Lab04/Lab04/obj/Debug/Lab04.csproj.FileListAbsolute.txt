@@ -1,0 +1,45 @@
+F:\Lab04\Lab04\bin\Debug\Lab04.exe.config
+F:\Lab04\Lab04\bin\Debug\Lab04.exe
+F:\Lab04\Lab04\bin\Debug\Lab04.pdb
+F:\Lab04\Lab04\obj\Debug\Lab04.csprojAssemblyReference.cache
+F:\Lab04\Lab04\obj\Debug\MainWindow.g.cs
+F:\Lab04\Lab04\obj\Debug\App.g.cs
+F:\Lab04\Lab04\obj\Debug\Lab04_MarkupCompile.cache
+F:\Lab04\Lab04\obj\Debug\Lab04_MarkupCompile.lref
+F:\Lab04\Lab04\obj\Debug\MainWindow.baml
+F:\Lab04\Lab04\obj\Debug\Lab04.g.resources
+F:\Lab04\Lab04\obj\Debug\Lab04.Properties.Resources.resources
+F:\Lab04\Lab04\obj\Debug\Lab04.csproj.GenerateResource.cache
+F:\Lab04\Lab04\obj\Debug\Lab04.csproj.CoreCompileInputs.cache
+F:\Lab04\Lab04\obj\Debug\Lab04.exe
+F:\Lab04\Lab04\obj\Debug\Lab04.pdb
+D:\Учеба\3 курс\6 семестр\КМЗИ\лабы\Lab04\Lab04\bin\Debug\Lab04.exe.config
+D:\Учеба\3 курс\6 семестр\КМЗИ\лабы\Lab04\Lab04\bin\Debug\Lab04.exe
+D:\Учеба\3 курс\6 семестр\КМЗИ\лабы\Lab04\Lab04\bin\Debug\Lab04.pdb
+D:\Учеба\3 курс\6 семестр\КМЗИ\лабы\Lab04\Lab04\obj\Debug\Lab04.csprojAssemblyReference.cache
+D:\Учеба\3 курс\6 семестр\КМЗИ\лабы\Lab04\Lab04\obj\Debug\MainWindow.g.cs
+D:\Учеба\3 курс\6 семестр\КМЗИ\лабы\Lab04\Lab04\obj\Debug\App.g.cs
+D:\Учеба\3 курс\6 семестр\КМЗИ\лабы\Lab04\Lab04\obj\Debug\Lab04_MarkupCompile.cache
+D:\Учеба\3 курс\6 семестр\КМЗИ\лабы\Lab04\Lab04\obj\Debug\Lab04_MarkupCompile.lref
+D:\Учеба\3 курс\6 семестр\КМЗИ\лабы\Lab04\Lab04\obj\Debug\MainWindow.baml
+D:\Учеба\3 курс\6 семестр\КМЗИ\лабы\Lab04\Lab04\obj\Debug\Lab04.g.resources
+D:\Учеба\3 курс\6 семестр\КМЗИ\лабы\Lab04\Lab04\obj\Debug\Lab04.Properties.Resources.resources
+D:\Учеба\3 курс\6 семестр\КМЗИ\лабы\Lab04\Lab04\obj\Debug\Lab04.csproj.GenerateResource.cache
+D:\Учеба\3 курс\6 семестр\КМЗИ\лабы\Lab04\Lab04\obj\Debug\Lab04.csproj.CoreCompileInputs.cache
+D:\Учеба\3 курс\6 семестр\КМЗИ\лабы\Lab04\Lab04\obj\Debug\Lab04.exe
+D:\Учеба\3 курс\6 семестр\КМЗИ\лабы\Lab04\Lab04\obj\Debug\Lab04.pdb
+D:\Учёба\3 curs\2 сем\Криптография\Lab04\Lab04\bin\Debug\Lab04.exe.config
+D:\Учёба\3 curs\2 сем\Криптография\Lab04\Lab04\bin\Debug\Lab04.exe
+D:\Учёба\3 curs\2 сем\Криптография\Lab04\Lab04\bin\Debug\Lab04.pdb
+D:\Учёба\3 curs\2 сем\Криптография\Lab04\Lab04\obj\Debug\Lab04.csprojAssemblyReference.cache
+D:\Учёба\3 curs\2 сем\Криптография\Lab04\Lab04\obj\Debug\MainWindow.g.cs
+D:\Учёба\3 curs\2 сем\Криптография\Lab04\Lab04\obj\Debug\App.g.cs
+D:\Учёба\3 curs\2 сем\Криптография\Lab04\Lab04\obj\Debug\Lab04_MarkupCompile.cache
+D:\Учёба\3 curs\2 сем\Криптография\Lab04\Lab04\obj\Debug\Lab04_MarkupCompile.lref
+D:\Учёба\3 curs\2 сем\Криптография\Lab04\Lab04\obj\Debug\MainWindow.baml
+D:\Учёба\3 curs\2 сем\Криптография\Lab04\Lab04\obj\Debug\Lab04.g.resources
+D:\Учёба\3 curs\2 сем\Криптография\Lab04\Lab04\obj\Debug\Lab04.Properties.Resources.resources
+D:\Учёба\3 curs\2 сем\Криптография\Lab04\Lab04\obj\Debug\Lab04.csproj.GenerateResource.cache
+D:\Учёба\3 curs\2 сем\Криптография\Lab04\Lab04\obj\Debug\Lab04.csproj.CoreCompileInputs.cache
+D:\Учёба\3 curs\2 сем\Криптография\Lab04\Lab04\obj\Debug\Lab04.exe
+D:\Учёба\3 curs\2 сем\Криптография\Lab04\Lab04\obj\Debug\Lab04.pdb

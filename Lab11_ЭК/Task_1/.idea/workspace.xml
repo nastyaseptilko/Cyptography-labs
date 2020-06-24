@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="abf572cf-1eee-4e1a-906f-07542b7ae9be" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1cwqrrkjIsysOqXXgO3a3Efd2Ft" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../node.js/exam/20. Разработка Websockets-приложения_Node.js-сервер, браузер_клиент_Пример" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abf572cf-1eee-4e1a-906f-07542b7ae9be" name="Default Changelist" comment="" />
+      <created>1591450204400</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591450204400</updated>
+      <workItem from="1591450206891" duration="2770000" />
+      <workItem from="1591542487396" duration="2246000" />
+      <workItem from="1591617998261" duration="51000" />
+      <workItem from="1592048604304" duration="1865000" />
+      <workItem from="1592145419168" duration="2477000" />
+      <workItem from="1592160354055" duration="28000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

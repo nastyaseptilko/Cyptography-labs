@@ -1,0 +1,21 @@
+E:\Криптография\lab8\lab8\bin\Debug\lab8.exe.config
+E:\Криптография\lab8\lab8\bin\Debug\lab8.exe
+E:\Криптография\lab8\lab8\bin\Debug\lab8.pdb
+E:\Криптография\lab8\lab8\obj\Debug\lab8.csprojAssemblyReference.cache
+E:\Криптография\lab8\lab8\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+E:\Криптография\lab8\lab8\obj\Debug\lab8.exe
+E:\Криптография\lab8\lab8\obj\Debug\lab8.pdb
+E:\UNIVER\KMZI\lab8\lab8\bin\Debug\lab8.exe.config
+E:\UNIVER\KMZI\lab8\lab8\bin\Debug\lab8.exe
+E:\UNIVER\KMZI\lab8\lab8\bin\Debug\lab8.pdb
+E:\UNIVER\KMZI\lab8\lab8\obj\Debug\lab8.csprojAssemblyReference.cache
+E:\UNIVER\KMZI\lab8\lab8\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+E:\UNIVER\KMZI\lab8\lab8\obj\Debug\lab8.exe
+E:\UNIVER\KMZI\lab8\lab8\obj\Debug\lab8.pdb
+D:\Учёба\3 curs\2 сем\материалы\KMZI\lab8\lab8\bin\Debug\lab8.exe.config
+D:\Учёба\3 curs\2 сем\материалы\KMZI\lab8\lab8\bin\Debug\lab8.exe
+D:\Учёба\3 curs\2 сем\материалы\KMZI\lab8\lab8\bin\Debug\lab8.pdb
+D:\Учёба\3 curs\2 сем\материалы\KMZI\lab8\lab8\obj\Debug\lab8.csprojAssemblyReference.cache
+D:\Учёба\3 curs\2 сем\материалы\KMZI\lab8\lab8\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+D:\Учёба\3 curs\2 сем\материалы\KMZI\lab8\lab8\obj\Debug\lab8.exe
+D:\Учёба\3 curs\2 сем\материалы\KMZI\lab8\lab8\obj\Debug\lab8.pdb

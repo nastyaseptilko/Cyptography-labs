@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            div{
+                height: auto;
+                width: 100%;
+                text-align: center;
+            }
+            table {
+                border-collapse: collapse;
+                background-color: peachpuff;
+                font-size: 1.3rem;
+            }
+
+            table, th, td {
+                border: 1px solid black;
+            }
+            .text{
+                font-size: 1.2rem;
+                color: #df0000;
+                font-weight: bold;
+            }
+        </style>
+    </head>
+    <body>
+    <h3>ВАРИАНТ 8:</h3>
+        <span class="text"> ЭК вида: у2 = х^3 + aх  + b (mod p): а = –1, b = 1, р = 751, т. е. Е751(–1, 1), x[481;515]. </span>
+        <br>
+        <h4>у2 = х^3 – х  + 1 (mod 751)</h4>
+        <div>
+            <table>
+                <thead>
+                    <tr>
+                        <td> x </td>
+                        <td> y </td> 
+                    </tr> 
+                </thead>
+                <tbody id="y2">
+
+                </tbody>
+            </table>
+        </div>
+        <br><br>
+
+        <span>k = 12, l = 5, P = [48,702]; let Q = [69,241]; R = [98,338]; </span>
+        <h3>а) kР</h3>
+        <div>
+            <table>
+                <thead>
+                    <tr>
+                        <td> Xr </td>
+                        <td> Yr </td>
+                    </tr> 
+                </thead>
+                <tbody id="kP">
+
+                </tbody>
+            </table>
+        </div>
+
+        <h3>б) P + Q</h3>
+        <div>
+            <table>
+                <thead>
+                    <tr>
+                        <td> Xr </td>
+                        <td> Yr </td> 
+                    </tr> 
+                </thead>
+                <tbody>
+                    <tr id="pplusq">
+                    </tr> 
+                </tbody>
+            </table>
+        </div>
+
+        <h3>в) kP + lQ - R</h3>
+        <div>
+            <table>
+                <thead>
+                    <tr>
+                        <td> Xr </td>
+                        <td> Yr </td> 
+                    </tr> 
+                </thead>
+                <tbody>
+                    <tr id="KpLqr">
+                    </tr> 
+                </tbody>
+            </table>
+        </div>
+
+        <h3>г) P - Q + R</h3>
+        <div>
+            <table>
+                <thead>
+                    <tr>
+                        <td> Xr </td>
+                        <td> Yr </td> 
+                    </tr> 
+                </thead>
+                <tbody>
+                    <tr id="pqr">
+                    </tr> 
+                </tbody>
+            </table>
+        </div>
+        
+
+        <script>
+            let X = [481,515];
+            let P = [48,702];
+            let Q = [69,241];
+            let Rpoint = [98,338];
+            let A = -1;
+            let k = 12;
+            let l = 5;
+
+
+            //таблица x , y
+            let ECpoints = (x) => {
+                let body = document.getElementById('y2');
+                let tbody = '';
+                for(let i = x[0]; i <= x[1]; i++){
+                    tbody += 
+                    `
+                        <tr>
+                            <td>${i}</td>
+                            <td>${ Math.sqrt((i*i*i - i + 1)%751).toFixed(2) }</td>
+                        </tr>
+                    `;
+                }
+
+                body.innerHTML = tbody;
+            }
+
+            let InversePoint = (point) => {
+                return [point[0], (-1)*point[1]];
+            } 
+
+            //L
+            let Lyambda = (p, q, a) => {
+                if((q[1]==p[1]) && (q[0]==p[0])){
+                    return (3*p[0]*p[0] + a)/(2*p[1])
+                }
+                else{
+                    return (q[1]-p[1])/(q[0]-p[0]);
+                }
+            } 
+
+            //x3 && y3
+            let xyR = (p, q, a) => {
+                let lyambda = Lyambda(p, q, a);
+                let xr = lyambda*lyambda - p[0] - q[0]; //x3=L^2-x1-x2
+                let yr = lyambda*(p[0] - xr) - p[1]; //y3=L(x1-x3) - y1
+
+                return [xr, yr];
+            }
+
+            ECpoints(X);
+
+            //P+Q
+            let body = document.getElementById('pplusq');
+            let R = xyR(P, Q, A);
+            body.innerHTML = 
+            `
+                <td>${R[0].toFixed(2)}</td>
+                <td>${R[1].toFixed(2)}</td>
+            `;
+
+            //kP
+            body = document.getElementById('kP');
+            R = [0,0];
+            for(let i = 0; i < k; i++){
+                R[0] += xyR(P, P, A)[0];
+                R[1] += xyR(P, P, A)[1];
+            }
+            body.innerHTML = 
+            `
+                <td>${R[0].toFixed(2)}</td>
+                <td>${R[1].toFixed(2)}</td>
+            `;
+
+            //kP + lQ - R
+            body = document.getElementById('KpLqr');
+            let R2 = [0,0];
+            for(let i = 0; i < l; i++){
+                R2[0] += xyR(Q, Q, A)[0];
+                R2[1] += xyR(Q, Q, A)[1];
+            }
+            R2 = xyR(R, R2, A);
+            R = xyR(R2, InversePoint(Rpoint), A);
+
+            body.innerHTML = 
+            `
+                <td>${R[0].toFixed(2)}</td>
+                <td>${R[1].toFixed(2)}</td>
+            `;
+
+            //P - Q + R
+            body = document.getElementById('pqr');
+            R = [0,0];
+            R = xyR(P, InversePoint(Q), A);
+            R = xyR(R, (Rpoint), A);
+            body.innerHTML = 
+            `
+                <td>${R[0].toFixed(2)}</td>
+                <td>${R[1].toFixed(2)}</td>
+            `;
+
+        </script>
+    </body>
+</html>

@@ -1,0 +1,30 @@
+G:\Lab06\Lab06\bin\Debug\Lab06.exe.config
+G:\Lab06\Lab06\bin\Debug\Lab06.exe
+G:\Lab06\Lab06\bin\Debug\Lab06.pdb
+G:\Lab06\Lab06\obj\Debug\Lab06.csprojAssemblyReference.cache
+G:\Lab06\Lab06\obj\Debug\MainWindow.g.cs
+G:\Lab06\Lab06\obj\Debug\App.g.cs
+G:\Lab06\Lab06\obj\Debug\Lab06_MarkupCompile.cache
+G:\Lab06\Lab06\obj\Debug\Lab06_MarkupCompile.lref
+G:\Lab06\Lab06\obj\Debug\MainWindow.baml
+G:\Lab06\Lab06\obj\Debug\Lab06.g.resources
+G:\Lab06\Lab06\obj\Debug\Lab06.Properties.Resources.resources
+G:\Lab06\Lab06\obj\Debug\Lab06.csproj.GenerateResource.cache
+G:\Lab06\Lab06\obj\Debug\Lab06.csproj.CoreCompileInputs.cache
+G:\Lab06\Lab06\obj\Debug\Lab06.exe
+G:\Lab06\Lab06\obj\Debug\Lab06.pdb
+D:\Учёба\3 curs\2 сем\Криптография\Lab06\Lab06\Lab06\bin\Debug\Lab06.exe.config
+D:\Учёба\3 curs\2 сем\Криптография\Lab06\Lab06\Lab06\bin\Debug\Lab06.exe
+D:\Учёба\3 curs\2 сем\Криптография\Lab06\Lab06\Lab06\bin\Debug\Lab06.pdb
+D:\Учёба\3 curs\2 сем\Криптография\Lab06\Lab06\Lab06\obj\Debug\Lab06.csprojAssemblyReference.cache
+D:\Учёба\3 curs\2 сем\Криптография\Lab06\Lab06\Lab06\obj\Debug\MainWindow.g.cs
+D:\Учёба\3 curs\2 сем\Криптография\Lab06\Lab06\Lab06\obj\Debug\App.g.cs
+D:\Учёба\3 curs\2 сем\Криптография\Lab06\Lab06\Lab06\obj\Debug\Lab06_MarkupCompile.cache
+D:\Учёба\3 curs\2 сем\Криптография\Lab06\Lab06\Lab06\obj\Debug\Lab06_MarkupCompile.lref
+D:\Учёба\3 curs\2 сем\Криптография\Lab06\Lab06\Lab06\obj\Debug\MainWindow.baml
+D:\Учёба\3 curs\2 сем\Криптография\Lab06\Lab06\Lab06\obj\Debug\Lab06.g.resources
+D:\Учёба\3 curs\2 сем\Криптография\Lab06\Lab06\Lab06\obj\Debug\Lab06.Properties.Resources.resources
+D:\Учёба\3 curs\2 сем\Криптография\Lab06\Lab06\Lab06\obj\Debug\Lab06.csproj.GenerateResource.cache
+D:\Учёба\3 curs\2 сем\Криптография\Lab06\Lab06\Lab06\obj\Debug\Lab06.csproj.CoreCompileInputs.cache
+D:\Учёба\3 curs\2 сем\Криптография\Lab06\Lab06\Lab06\obj\Debug\Lab06.exe
+D:\Учёба\3 curs\2 сем\Криптография\Lab06\Lab06\Lab06\obj\Debug\Lab06.pdb

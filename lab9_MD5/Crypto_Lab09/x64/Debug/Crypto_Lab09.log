@@ -1,0 +1,3 @@
+﻿  Crypto_Lab09.cpp
+d:\учёба\3 curs\2 сем\криптография\lab9_md5\crypto_lab09\crypto_lab09.cpp(37): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Crypto_Lab09.vcxproj -> D:\Учёба\3 curs\2 сем\Криптография\lab9_MD5\x64\Debug\Crypto_Lab09.exe

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ded82853-bc0a-49e4-b2e2-802d720e4bf4" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1aWihTalyofzdLwtXnzIAiXHsi9" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/project" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.index.js">
+    <configuration name="index.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="mocha-javascript-test-runner" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Mocha.Unnamed" />
+      <item itemvalue="Node.js.index.js" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ded82853-bc0a-49e4-b2e2-802d720e4bf4" name="Default Changelist" comment="" />
+      <created>1586857869965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586857869965</updated>
+      <workItem from="1586857872531" duration="4282000" />
+      <workItem from="1586933311565" duration="3667000" />
+      <workItem from="1587033541548" duration="73000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

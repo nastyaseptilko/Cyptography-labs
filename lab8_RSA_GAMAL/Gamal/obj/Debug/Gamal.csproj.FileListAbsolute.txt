@@ -1,0 +1,27 @@
+E:\Криптография\lab8\Gamal\bin\Debug\Gamal.exe.config
+E:\Криптография\lab8\Gamal\bin\Debug\Gamal.exe
+E:\Криптография\lab8\Gamal\bin\Debug\Gamal.pdb
+E:\Криптография\lab8\Gamal\obj\Debug\Gamal.csproj.CoreCompileInputs.cache
+E:\Криптография\lab8\Gamal\obj\Debug\Gamal.exe
+E:\Криптография\lab8\Gamal\obj\Debug\Gamal.pdb
+E:\UNIVER\KMZI\lab8\Gamal\bin\Debug\Gamal.exe.config
+E:\UNIVER\KMZI\lab8\Gamal\bin\Debug\Gamal.exe
+E:\UNIVER\KMZI\lab8\Gamal\bin\Debug\Gamal.pdb
+E:\UNIVER\KMZI\lab8\Gamal\obj\Debug\Gamal.csprojAssemblyReference.cache
+E:\UNIVER\KMZI\lab8\Gamal\obj\Debug\Gamal.csproj.CoreCompileInputs.cache
+E:\UNIVER\KMZI\lab8\Gamal\obj\Debug\Gamal.exe
+E:\UNIVER\KMZI\lab8\Gamal\obj\Debug\Gamal.pdb
+D:\Учёба\3 curs\2 сем\материалы\KMZI\lab8\Gamal\bin\Debug\Gamal.exe.config
+D:\Учёба\3 curs\2 сем\материалы\KMZI\lab8\Gamal\bin\Debug\Gamal.exe
+D:\Учёба\3 curs\2 сем\материалы\KMZI\lab8\Gamal\bin\Debug\Gamal.pdb
+D:\Учёба\3 curs\2 сем\материалы\KMZI\lab8\Gamal\obj\Debug\Gamal.csprojAssemblyReference.cache
+D:\Учёба\3 curs\2 сем\материалы\KMZI\lab8\Gamal\obj\Debug\Gamal.csproj.CoreCompileInputs.cache
+D:\Учёба\3 curs\2 сем\материалы\KMZI\lab8\Gamal\obj\Debug\Gamal.exe
+D:\Учёба\3 curs\2 сем\материалы\KMZI\lab8\Gamal\obj\Debug\Gamal.pdb
+D:\Учёба\3 curs\2 сем\Криптография\lab8_RSA_GAMAL\Gamal\bin\Debug\Gamal.exe.config
+D:\Учёба\3 curs\2 сем\Криптография\lab8_RSA_GAMAL\Gamal\bin\Debug\Gamal.exe
+D:\Учёба\3 curs\2 сем\Криптография\lab8_RSA_GAMAL\Gamal\bin\Debug\Gamal.pdb
+D:\Учёба\3 curs\2 сем\Криптография\lab8_RSA_GAMAL\Gamal\obj\Debug\Gamal.csprojAssemblyReference.cache
+D:\Учёба\3 curs\2 сем\Криптография\lab8_RSA_GAMAL\Gamal\obj\Debug\Gamal.csproj.CoreCompileInputs.cache
+D:\Учёба\3 curs\2 сем\Криптография\lab8_RSA_GAMAL\Gamal\obj\Debug\Gamal.exe
+D:\Учёба\3 curs\2 сем\Криптография\lab8_RSA_GAMAL\Gamal\obj\Debug\Gamal.pdb

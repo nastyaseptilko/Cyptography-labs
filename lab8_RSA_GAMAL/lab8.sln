@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab8", "lab8\lab8.csproj", "{1E72B188-EBF1-48AF-9640-C3F0CF85ECD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gamal", "Gamal\Gamal.csproj", "{6787466B-B46D-4FEF-9506-DF44105E6F53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E72B188-EBF1-48AF-9640-C3F0CF85ECD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E72B188-EBF1-48AF-9640-C3F0CF85ECD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E72B188-EBF1-48AF-9640-C3F0CF85ECD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E72B188-EBF1-48AF-9640-C3F0CF85ECD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6787466B-B46D-4FEF-9506-DF44105E6F53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6787466B-B46D-4FEF-9506-DF44105E6F53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6787466B-B46D-4FEF-9506-DF44105E6F53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6787466B-B46D-4FEF-9506-DF44105E6F53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A787BE2-D85D-4C29-B044-99F500455EB2}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+G:\крипта\Lab08\Lab08\bin\Debug\Lab08.exe.config
+G:\крипта\Lab08\Lab08\bin\Debug\Lab08.exe
+G:\крипта\Lab08\Lab08\bin\Debug\Lab08.pdb
+G:\крипта\Lab08\Lab08\obj\Debug\Lab08.csprojAssemblyReference.cache
+G:\крипта\Lab08\Lab08\obj\Debug\Lab08.csproj.CoreCompileInputs.cache
+G:\крипта\Lab08\Lab08\obj\Debug\Lab08.exe
+G:\крипта\Lab08\Lab08\obj\Debug\Lab08.pdb
+D:\Учёба\3 curs\2 сем\Криптография\Lab00008\Lab08\Lab08\bin\Debug\Lab08.exe.config
+D:\Учёба\3 curs\2 сем\Криптография\Lab00008\Lab08\Lab08\bin\Debug\Lab08.exe
+D:\Учёба\3 curs\2 сем\Криптография\Lab00008\Lab08\Lab08\bin\Debug\Lab08.pdb
+D:\Учёба\3 curs\2 сем\Криптография\Lab00008\Lab08\Lab08\obj\Debug\Lab08.csprojAssemblyReference.cache
+D:\Учёба\3 curs\2 сем\Криптография\Lab00008\Lab08\Lab08\obj\Debug\Lab08.csproj.CoreCompileInputs.cache
+D:\Учёба\3 curs\2 сем\Криптография\Lab00008\Lab08\Lab08\obj\Debug\Lab08.exe
+D:\Учёба\3 curs\2 сем\Криптография\Lab00008\Lab08\Lab08\obj\Debug\Lab08.pdb
